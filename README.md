@@ -152,4 +152,3 @@ The deployer wallet only pays gas — it doesn't need to be one of the
 ## License
 
 MIT
-```
